@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MorseEnglishTranslate</string>
+    <string name="rules_of_Morse_code">Enter Morse code (1 space between letters(!), 2 space between words(!))</string>
+    <string name="MorseCodeBelow">. -. - . .-. / -- --- .-. ... . / -.-. --- -.. . / .---- / ... .--. .- -.-. . / -... . - .-- . . -. / .-.. . - - . .-. ... / ..--- / ... .--. .- -.-. . / -... . - .-- . . -. / .-- --- .-. -.. ...</string>
+    <string name="EnterTextInMorse">. -. - . .-.  - .... .  - . -..- -  -.--. ... -- .- .-.. .-..  .-.. . - - . .-. ...  .- -. -..  -. ..- -- -... . .-. ...  --- -. .-.. -.-- -.--.-</string>
+    <string name="enter_the_text">Enter the text (english letters and numbers only) in one line</string>
+</resources>
